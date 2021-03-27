@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Entregas" GeneratedClassName="Configuracion">
+  <Profiles />
+  <Settings>
+    <Setting Name="rutaDB" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\servidornvo\comun\programas\entregas\</Value>
+    </Setting>
+    <Setting Name="nombreDB" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ENTREGAS_DB.mdb</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
